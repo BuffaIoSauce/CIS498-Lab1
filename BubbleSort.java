@@ -1,4 +1,4 @@
-// Author: Tej Kakumanu
+// Author: Anthony
 // CIS 498 - Lab 1
 
 public class BubbleSort {
